@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,EACC,qBACD,CAEA,MAEC,qBAAwB,CACxB,UACD","file":"main.c66d932c.chunk.css","sourcesContent":["*{\n\tbox-sizing: border-box;\n}\n\n.test\n{\n\tbackground-color: yellow;\n\tcolor: blue;\n}\n"]}
