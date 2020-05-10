@@ -12,6 +12,10 @@ class App extends React.Component
 				<div className="test">
 					<h2>Hello World</h2>
 				</div>
+
+				<div className="test2">
+					<h2>Hello World 2</h2>
+				</div>
 			</>
 		);
 
