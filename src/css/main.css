@@ -2,14 +2,48 @@
 	box-sizing: border-box;
 }
 
-.test
+.logo
 {
-	background-color: yellow;
-	color: purple;
+	width: 25%;
+	height: 20vh;
+
+	display: inline;
+	float: left;
+
+	background-color: #74f4d4;
 }
 
-.test2
+.title
 {
-	background-color: khaki;
-	color: orange;
+	width: 75%;
+	height: 20vh;
+
+	display: inline;
+	float: right;
+
+	background-color: #74d6f4;
 }
+
+
+.navigation
+{
+	width: 25%;
+	height: 80vh;
+	
+	display: inline;
+	float: left;
+	
+	background-color: khaki;
+}
+
+.dataView
+{
+	width: 75%;
+	height: 80vh;
+
+	display: inline;
+	float: right; 
+
+	background-color: silver;;
+}
+

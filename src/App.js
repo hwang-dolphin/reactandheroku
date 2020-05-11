@@ -1,5 +1,12 @@
 import React from 'react';
 
+import Logo from "./components/logo.js";
+import Title from "./components/title.js";
+import Navigation from "./components/navigation.js";
+import DataView from "./components/dataView.js";
+
+
+
 import "./css/main.css";
 
 
@@ -9,16 +16,11 @@ class App extends React.Component
 	{
 		return(
 			<>	
-				<div className="test">
-					<h2>Hello World 1</h2>
-				</div>
-
-				<div className="test2">
-					<h2>Hello World 2</h2>
-				</div>
-
-				<div className="test2">
-					<h2>Hello World 3</h2>
+				<div>
+					<Logo />
+					<Title />
+					<Navigation />
+					<DataView />
 				</div>
 			</>
 		);
